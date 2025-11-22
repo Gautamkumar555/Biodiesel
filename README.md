@@ -1,3 +1,13 @@
+preparation script 
+
+https://g.co/gemini/share/e0a2567f564a
+
+
+
+
+
+
+
 Biodiesel Calculator (Palmolein & Popular Oils)
 
 A simple CustomTkinter GUI application that helps calculate the required amounts of alcohol and catalyst for biodiesel production from different oils.  
